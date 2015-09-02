@@ -7,7 +7,7 @@ How to make the background of an image transparent using GIMP
 ![Image 1](/images/TransparentBackgroundGimp1.jpg)
 - Select the *Select by Color* Tool in the Toolbox
 ![Image 2](/images/TransparentBackgroundGimp2.jpg)
-- Click on a region that you want to be transparent, and press *Delet*e. You should see a checkerboard pattern marking the transparent region. Repeat this process for all regions that you want to be transparent.
+- Click on a region that you want to be transparent, and press *Delet*e. You should see a checkerboard pattern marking the transparent region. Repeat this process for all regions that you want to be transparent.  
 ![Image 3](/images/TransparentBackgroundGimp3.jpg)
 - Choose *File | Save*
 - Now you can add the picture to processing with *Sketch | Add File... *
