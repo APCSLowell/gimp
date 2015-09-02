@@ -1,5 +1,5 @@
- How to make the background of an image transparent using GIMP
- -------------------------------------------------------------
+How to make the background of an image transparent using GIMP
+-------------------------------------------------------------
 
 - Start the Gimp program by clicking on the Start menu and choosing Start | All Programs | GIMP | GIMP2
 - Select your image with File | Open
