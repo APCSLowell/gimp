@@ -1,6 +1,8 @@
+How to make the background of an image transparent
+--------------------------------------------------
+(https://www.remove.bg/)[https://www.remove.bg/] is a free website that will remove a background. Alternatively, use can use the free program Gimp (described below).
 How to make the background of an image transparent using GIMP
 -------------------------------------------------------------
-
 - Start the Gimp program by clicking on the Start menu and choosing *Start | All Programs | GIMP | GIMP2*
 - Select your image with *File | Open*
 - Choose *Layer | Transparency | Add Alpha Channel*
